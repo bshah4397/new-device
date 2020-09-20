@@ -45,8 +45,11 @@
   
   bshah:~$ git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k # Powerlevel 10k
   bshah:~$ p10k configure
-  
+           (Classic) -> (Unicode) -> (Darkest) -> (No) -> (Angled Seperator)
+           (Round Head:Tail) -> (One Line) -> (Compact) -> (Many Icons)
+           (Fluent) -> (Yes Transient) -> (Quite Instant Prompt)
   ```
+  > The [`.zshrc`](https://github.com/bshah4397/new-device/blob/master/zshrc) file is present in the repository for quick copy-paste setup.
   
 - **SSH**
     ```console
