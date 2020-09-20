@@ -49,7 +49,7 @@
            (Round Head:Tail) -> (One Line) -> (Compact) -> (Many Icons)
            (Fluent) -> (Yes Transient) -> (Quite Instant Prompt)
   ```
-  > The [`.zshrc`](https://github.com/bshah4397/new-device/blob/master/zshrc) file is present in the repository for quick copy-paste setup.
+  > The [`~/.zshrc`](https://github.com/bshah4397/new-device/blob/master/zshrc) file is present in the repository for quick copy-paste setup.
   
 - **SSH**
     ```console
