@@ -1,4 +1,6 @@
-### 1. Terminal
+#### **The basic commands / softwares / packages for setting up a new dev environment for a new device**
+
+#### 1. Terminal
 
 - **Xcode**
   ```console
@@ -80,7 +82,7 @@
     
 <hr>
 
-### 2. OSX Apps
+#### 2. OSX Apps
 
 - **iTerm2**
     ```console
