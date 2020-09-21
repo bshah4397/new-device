@@ -1,24 +1,24 @@
-#### **The basic commands / softwares / packages for setting up a new dev environment for a new device**
+### **Basic commands / softwares / packages for setting up a new dev environment for a new Mac device 💻🎉**
 
 #### 1. Terminal
 
-- **Xcode**
+- ** Xcode**
   ```console
   *** Installation: XCode Select Tools
     Before beginning any other installation simply install the 
-    necessarey pacakges for mac which are available from XCode 
+    necessary pacakges for mac which are available from XCode 
   
   bshah:~$ xcode-select --install
   ```
 
-- **Homebrew**
+- **🐧 Homebrew**
     ```console
     *** Installation: brew
     
     bshah:~$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
     bshah:~$ brew upate
     ```
-- **zsh**
+- **🐧 zsh**
   ```console
   *** Installation: zsh  
     Before using zsh we need to update the system files to make 
@@ -51,7 +51,7 @@
   ```
   > The [`~/.zshrc`](https://github.com/bshah4397/new-device/blob/master/zshrc) file is present in the repository for quick copy-paste setup.
   
-- **SSH**
+- **🐧 SSH**
     ```console
     *** Installation: SSH
     
@@ -68,7 +68,7 @@
     bshah:~$ ssh-add ~/.ssh/gitlab/id_rsa # Add / Bind the key if not identity doesn't exist
     bshah:~$ 
     ```
-- **Python**
+- **🐧 Python**
     ```console
     *** Installation: Python 3.X
     
@@ -85,9 +85,9 @@
     
 <hr>
 
-#### 2. OSX Apps
+#### 2. Other Apps
 
-- **iTerm2**
+- ** iTerm2**
     ```console
     *** Installation: iTerm2
     
@@ -101,7 +101,7 @@
           
     ```
 
-- **Node**
+- **🐧 Node**
     ```console
     *** Installation: Node Version Manager
     
@@ -119,7 +119,7 @@
           
     ```
     
-- **Other Important Applications** 
+- ** Other Important Applications** 
     ```console
     *** Installation: Google Chrome
     Cross-platform web browser
