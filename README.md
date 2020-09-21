@@ -1,4 +1,4 @@
-### **Basic commands / softwares / packages for setting up a new dev environment for a new Mac device 💻 🎉**
+### **Basic commands / softwares / packages for setting up a new dev environment for a new Mac device 💻 😌**
 
 #### 1. Terminal
 
