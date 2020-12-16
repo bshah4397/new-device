@@ -168,10 +168,10 @@
     
     bshah:~$ brew cask install teamviewer
     
-    *** Installation: 
+    *** Installation: Dozer
+    Hide menu bar icons on macOS
     
-    
-    bshah:~$ brew cask install 
+    bshah:~$ brew cask install dozer
     
     *** Installation: 
     
