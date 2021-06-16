@@ -87,6 +87,28 @@
 
 #### 2. Other Apps
 
+- **🐧 Hyper**
+
+  ```console
+  *** Installation: Hyper
+
+  Download Hyper using the documentation @ https://hyper.is/
+  bshah:~$ hyper install hyper-snazzy
+  
+  bshah:~$ brew install pure
+  Edit ~/.zshrc using the documentation @ https://github.com/sindresorhus/pure
+  bshah:~$ brew install zsh-syntax-highlighting
+  bshah:~$ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+  bshah:~$ echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc  
+
+
+  **** Customization:
+  - Preferrences > fontFamily > MesloLGS NF > 
+    Preferrences > fontSize > 12 / 13
+
+
+  ```
+  
 - ** iTerm2**
     ```console
     *** Installation: iTerm2
@@ -173,7 +195,7 @@
     
     bshah:~$ brew cask install dozer
     
-    *** Installation: 
+    *** Installation: Cask
     
     
     bshah:~$ brew cask install 
