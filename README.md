@@ -20,15 +20,6 @@
     ```
 - **🐧 zsh**
   ```console
-  *** Installation: zsh  
-    Before using zsh we need to update the system files to make 
-    zsh as one of the acceptable shells in a Mac
-  
-  bshah:~$ brew install zsh
-  bshah:~$ brew info zsh # Get the installed location of the installed zsh
-  bshah:~$ sudo nano /etc/shells # Add the installed zsh location in the accepted shell's list for your mac
-  bshah:~$ echo $SHELL # Should print the location of the zsh shell which is running
-
   *** Installation: oh-my-zsh
     The DeFacto framework to use with the zsh shell
     
